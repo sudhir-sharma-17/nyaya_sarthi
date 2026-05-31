@@ -1,0 +1,68 @@
+#Core Backend 
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+pydantic-settings
+sqlalchemy
+httpx
+
+#  LLM (Ollama / HuggingFace)
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-groq
+langchain-core
+
+# Embeddings 
+sentence-transformers
+InstructorEmbedding
+transformers
+torch
+
+# Vector Stores
+faiss-cpu
+chromadb
+langchain-chroma
+pymupdf
+pdfminer.six
+
+# Clustering & ML 
+scikit-learn
+numpy
+pandas
+
+# Explainability (XAI)
+shap
+lime
+
+#  Guardrails
+# guardrails-ai
+
+#  OCR & Document Processing
+pytesseract
+pdfplumber
+Pillow
+tika
+python-docx
+
+# Multilingual / Indic NLP 
+indic-nlp-library
+
+#  Monitoring (LangSmith) 
+langsmith
+
+# Visualization & Dashboard 
+streamlit
+plotly
+matplotlib
+
+# Misc 
+requests
+aiofiles
+python-dateutil
+dateparser
+
+fpdf2
